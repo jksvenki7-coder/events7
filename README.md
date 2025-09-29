@@ -89,18 +89,12 @@
     </section>
 
     <section>
-      <h2>Main Service Categories</h2>
+      <h2> Service Categories</h2>
       <ul>
         <li>Decoration, Garlands & Accessories</li>
         <li>Catering</li>
         <li>Conventions</li>
         <li>Photography & Videography</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Additional Services</h2>
-      <ul>
         <li>Anchors & Actress</li>
         <li>DJ, Dance & Singers</li>
         <li>Guest House & Rooms</li>
@@ -110,12 +104,6 @@
         <li>Invitation Cards</li>
         <li>Vehicles</li>
         <li>Return Gifts</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Specialist Services</h2>
-      <ul>
         <li>Decoration Items</li>
         <li>Makeup Artist</li>
         <li>Mehndi Artist</li>
